@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Fabricio!
-- 👀 I’m interested in front and back end web development
-- 🌱 I’m currently learning JavaScript and front-end libraries
+- 💼 Web Content Developer at Abercrombie & Fitch.
+- 🌱 Constantly learning and improving my front-end devlopment skills!
+- 👨‍💻 HTML, CSS, JavaScript
 - 📫 How to reach me ... 
   - Shoot me an email: fabro715@gmail.com 
   - Connnect with me on LinkedIn: https://www.linkedin.com/in/santanafabricio
