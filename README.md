@@ -3,7 +3,6 @@
 - 🌱 Constantly learning and improving my front-end devlopment skills!
 - 👨‍💻 HTML, CSS, JavaScript, React
 - 📫 How to reach me ... 
-  - Shoot me an email: fabro715@gmail.com 
   - Connnect with me on LinkedIn: https://www.linkedin.com/in/santanafabricio
 
 <!---
